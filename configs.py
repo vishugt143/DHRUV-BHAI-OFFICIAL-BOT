@@ -18,8 +18,8 @@ class Config:
 
     # Posts to copy
     POSTS = [
-        "https://t.me/forward_hack_lnx/253",
-        "https://t.me/forward_hack_lnx/254",
+        "https://t.me/forward_hack_lnx/289",
+        "https://t.me/forward_hack_lnx/290",
         "https://t.me/forward_hack_lnx/255"
     ]
 
